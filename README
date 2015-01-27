@@ -1,0 +1,3 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=5096
+
+This plugin is activated by <Lead>i. It does mark vertically the indentation in code when the indentation is done by spaces.
